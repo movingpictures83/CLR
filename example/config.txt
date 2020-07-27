@@ -1,0 +1,2 @@
+Prefix plugins/CLR/example
+Plugin CLR inputfile parameters.txt outputfile output.transformed.csv
